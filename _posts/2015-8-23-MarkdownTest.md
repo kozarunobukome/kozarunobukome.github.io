@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Markdown Syntax Test"       # Title of the post
+title: "Test"       # Title of the post
 description: Some description       # Description of the post, used for Facebook Opengraph & Twitter
 headline: Markdown Syntax Test      # Will appear in bold letters on top of the post
-modified: 2015-8-23                 # Date
+modified: 2017-06-09                 # Date
 category: personal
 tags: []
 image: 
@@ -82,6 +82,8 @@ used email.
 
 
 <h3 id="html">Inline HTML</h3>
+
+本当にすばらしい旅だった。多くの愛すべき人々と出会ったが、彼らと再び会うことはないだろう。一生は短く、誰もがリダウトの安全と繁栄のために尽力しなければならない。それでも、訪れたすべての都市でたくさん旅をした。多くの人々がいたが、時間が足りなかった。
 
 Markdown's syntax is intended for one purpose: to be used as a
 format for *writing* for the web.
