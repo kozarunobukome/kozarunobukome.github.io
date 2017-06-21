@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Site description for the metas.
-logo:             omikron.png
+title:            Kozaru's Blog
+description:      "こざるのブログ"
+logo:             icon.jpg
 disqus_shortname: shortname
 # Assign a default image for your site's header and footer
 default_bg:       default_bg.jpg
@@ -9,13 +9,13 @@ share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
 readtime:         true
 # Turn on or off the fin animations in the header and footer
-triangleheader:	  true
-animated_fins:    true
+triangleheader:	  false
+animated_fins:    false
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 url: "https://kozaru.github.io"
-baseurl: ""         
+baseurl: ""
 
 # Gems used
 gems:
@@ -42,20 +42,20 @@ jekyll-archives:
 
 # Owner/author information
 author:
-  name:           Your Name
-  picture:        your-photo.jpg
-  email:          your@email.com
+  name:           kozaru
+  picture:        icon.jpg
+  email:          kozarume@corogari.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Some Details about yourself
+  description:    '大阪で細々Web系フリーランスをしているこざるです。<br>好きなことや便利だったことなどを綴ります。'
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
+  twitter: 'https://twitter.com/kozaru_me'
+  facebook: 'https://www.facebook.com/kozaru.me'
+  github: 'https://github.com/kozaru'
   linkedin:
   instagram:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    ""
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -66,8 +66,6 @@ google_verify:
 links:
   - title: Home
     url: /
-    external: false
-    icon: home
   - title: Categories
     url: /categories
   - title: Tags

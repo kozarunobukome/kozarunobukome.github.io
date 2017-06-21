@@ -50,7 +50,7 @@
 
     function postInit() {
         // Set lead paragraphs
-        $('.post-body p:first-child').addClass('lead');
+        // $('.post-body p:first-child').addClass('lead');
 
         // Set feature image
         var featured = $('.featured-image').find('img').attr('src');

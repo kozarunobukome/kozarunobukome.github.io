@@ -6,7 +6,7 @@
 
 @import url(http://fonts.googleapis.com/css?family=Sacramento);
 
-.wf-notosansjapanese { font-family: "Noto Sans Japanese"; }
+.wf-notosansjapanese { font-family: 'Noto Sans Japanese'; }
 
 
 /* ------------------------ */
@@ -15,7 +15,7 @@
 /* - Body typography - */
 body {
   -webkit-font-smoothing: antialiased;
-  font-family: "Noto Sans Japanese";
+  font-family: 'Noto Sans Japanese';
 }
 /* - Headers - */
 h1,
@@ -121,9 +121,9 @@ blockquote:before {
 }
 
 .cursive {
-  font-family: 'Sacramento', cursive;
-  color: #17e4d8;
-  font-size: 34px;
+  font-family: 'Sacramento','Noto Sans Japanese', cursive;
+  color: #807f83;//#17e4d8;
+  font-size: 20px;
   text-align: center;
 }
 /* - Form elements - */
@@ -269,7 +269,7 @@ pre {
 }
 
 .super {
-  font-size: 60px;
+  font-size: 48px;
   font-weight: bold;
   line-height: 1;
   text-transform: uppercase;
@@ -281,7 +281,7 @@ pre {
 }
 
 .hyper {
-  font-size: 72px;
+  font-size: 48px;
   font-weight: bold;
   text-align: center;
   line-height: 1;
@@ -548,8 +548,9 @@ html {
 .blog-title {
   font-size: 36px;
   line-height: 36px;
-  text-transform: uppercase;
+  // text-transform: uppercase;
   margin-bottom: 12px;
+  margin-top: 15px;
 }
 
 .blog-title span {
@@ -613,6 +614,10 @@ html {
 .post-template .post-body {
   padding-bottom: 36px;
   margin-bottom: 24px;
+}
+
+.post-body p {
+  text-align: justify;
 }
 
 .post-body img {
@@ -869,7 +874,7 @@ html {
 /* THEME FONTS */
 /* ----------- */
 body {
-  font-family: 'Merriweather', serif;
+  font-family: 'Merriweather','Noto Sans Japanese', serif;
   font-size: 18px;
   line-height: 1.71428571;
 }
@@ -882,7 +887,7 @@ body input,
 body textarea,
 body .btn,
 body button {
-  font-family: 'Merriweather', serif;
+  font-family: 'Merriweather','Noto Sans Japanese', serif;
 }
 
 .lighter {
@@ -903,7 +908,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Merriweather','Noto Sans Japanese', sans-serif;
 }
 
 h1.lighter,
@@ -1476,7 +1481,7 @@ button::-moz-focus-inner {
   width: 44px;
   height: 44px;
   padding: 0 0 18px 10px;
-  font-family: Arial,Baskerville,monospace;
+  font-family: Arial,Baskerville,'Noto Sans Japanese',monospace;
   font-size: 28px;
   font-style: normal;
   line-height: 44px;
@@ -1916,7 +1921,7 @@ img.mfp-img {
 }
 
 tt,code,kbd,samp,pre {
-  font-family: 'source-code-pro',monospace;
+  font-family: 'source-code-pro','Noto Sans Japanese',monospace;
 }
 
 p code,li code {
@@ -1973,7 +1978,7 @@ button.menu-button {
 }
 
 button.menu-button:hover {
-  background-color: #39c492;
+  background-color: #999;
   color: #fff;
   box-shadow: rgba(0,0,0,0.2) 0 0 0 3px;
 }
@@ -2017,26 +2022,31 @@ a#slide {
   background: #262626;
   border-radius: 3px;
   z-index: 31;
+  cursor: pointer;
 }
 
 a#slide:hover {
-  background: #39c492;
+  background: #999;
 }
 
 a#slide:after {
-  content: "F";
+  display: block;
+  position: absolute;
+  content: "\f0c9";
+  font-family: 'FontAwesome';
+  width: 1em;
+  height: 1em;
+  line-height: 1em;
+  // text-align: center;
+  z-index: 1;
+  top: 50%;
+  left: 50%;
+  margin-left: -0.5em;
+  margin-top: -0.5em;
 }
 
 a#slide.slide:after {
-  position: absolute;
-  content: "X";
-  top: 11px;
-  left: 50%;
-  width: 40px;
-  height: 40px;
-  margin: 0 0 0 -20px;
-  font: 18px "icon" !important;
-  vertical-align: middle;
+  content: "\f00d";
 }
 
 /*      Sidebar     */
@@ -2055,7 +2065,7 @@ a#slide.slide:after {
 
 #sidebar h2 {
   margin: 0 0 16px !important;
-  font: 900 16px/1em "Lato",sans-serif;
+  font: 900 16px/1em "Cambria",sans-serif;
   color: #fff;
 }
 
@@ -2226,7 +2236,7 @@ body.slide {
 /*      Responsive      */
 
 @media screen and (max-width:1140px) {
-    
+
   #header,
     #posts-container,
     .entry .text,
@@ -2259,9 +2269,12 @@ body.slide {
 }
 
 @media screen and (max-width:500px) {
-    
+
   a#slide {
     position: absolute;
   }
+}
+.brand img{
+  border-radius: 50%;
 }
 /*      End-Responsive      */

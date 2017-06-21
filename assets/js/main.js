@@ -15,6 +15,13 @@ $(function () {
 // Add lightbox class to all image links
 $("a[href$='.jpg'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
 
+// $('head').append(
+//   '<style type="text/css">body {display:none;}'
+// );
+// $(window).load(function() {
+//   $('body').delay(100).fadeIn("slow");
+// });
+
 // Magnific-Popup options
 $(document).ready(function () {
   $('.image-popup').magnificPopup({
@@ -28,8 +35,8 @@ $(document).ready(function () {
     image: {
       tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
     },
-    removalDelay: 300, // Delay in milliseconds before popup is removed
-    // Class that is added to body when popup is open. 
+    removalDelay: 10, // Delay in milliseconds before popup is removed
+    // Class that is added to body when popup is open.
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-fade'
   });
