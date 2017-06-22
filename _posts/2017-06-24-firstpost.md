@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ブログリニューアル"        # Title of the post
-description: "2017年の目標の一つ。"    # Description of the post, used for Facebook Opengraph & Twitter
+description: "今年の目標一つ目"    # Description of the post, used for Facebook Opengraph & Twitter
 headline: "ヘッドライン"  # Will appear in bold letters on top of the post
 modified: 2017-06-24    # Date
 category: test
@@ -12,8 +12,10 @@ comments: false
 mathjax:
 ---
 
-ブログをリニューアル。[2013〜2016年のブログ](http://blog.kozaru.me)のWordPressから、[jekyll](https://jekyllrb-ja.github.io/)＋[GitHub Pages](https://pages.github.com/) に変更しました。
+ブログをリニューアル。[2013〜2016年のブログ](http://blog.kozaru.me)のWordPressから、[jekyll](https://jekyllrb-ja.github.io/)＋[GitHub Pages](https://pages.github.com/) に変更しました。今年は、いろんなスタティックサイトジェネレータを使ってみようと思っています。その第一弾がブログリニューアル。
 
-2017年中に、いろんなスタティックサイトジェネレータを使ってみようと思っています。その第一弾がブログリニューアルでした。
+[jekyll](https://jekyllrb-ja.github.io/)と[GitHub Pages](https://pages.github.com/) は、昨年実行委員で参加したイベント [DojoCon Japan 2016](http://dojocon2016.coderdojo.jp/) のサイト更新の際に初めて触りました。マークダウンで記事が書ける部分に惹かれて、使ってみました。
 
-取り急ぎ、リニュアル完了のお知らせまで。今年は、もうちょっと記事も書いていこうと思っています。
+GitHubにあったMITライセンスの[jekyll](https://jekyllrb-ja.github.io/)テーマ [HMFAYSAL OMEGA THEME](https://github.com/hmfaysal/hmfaysal-omega-theme) を使って作成。[jekyll](https://jekyllrb-ja.github.io/)は、テーマがたくさんあることが魅力的ですね。
+
+今年は、もうちょっと記事も書いていこうと思っています。
