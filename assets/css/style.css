@@ -40,7 +40,7 @@ h1 small {
 h2 {
   font-size: 26px;
   line-height: 24px;
-  margin-top: 24px;
+  margin-top: 40px;
   margin-bottom: 24px;
 }
 
@@ -51,7 +51,7 @@ h2 small {
 h3 {
   font-size: 20px;
   line-height: 24px;
-  margin-top: 24px;
+  margin-top: 32px;
   margin-bottom: 20px;
   text-transform: uppercase;
 }
@@ -615,7 +615,7 @@ html {
   padding-bottom: 36px;
   margin-bottom: 24px;
 }
-
+.page-body p,
 .post-body p {
   text-align: justify;
 }
@@ -624,7 +624,7 @@ html {
   max-width: 100%;
   margin-bottom: 24px;
 }
-
+.page-body a,
 .post-body a {
   border-bottom: 1px dotted;
 }
