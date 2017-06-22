@@ -7,6 +7,6 @@ This application uses Open Source components. You can find the source code of th
 
 This theme is free and open source software, distributed under the [The MIT License](LICENSE). So feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
 
-Project name: [HMFAYSAL OMEGA THEME](https://github.com/hmfaysal/hmfaysal-omega-theme)
-Author: Hossain Mohd Faysal [@hmfaysal](https://twitter.com/hmfaysal)
-Project type: The Coolest Theme for Jekyll License: MIT License
+- Project name: [HMFAYSAL OMEGA THEME](https://github.com/hmfaysal/hmfaysal-omega-theme)
+- Author: Hossain Mohd Faysal [@hmfaysal](https://twitter.com/hmfaysal)
+- Project type: The Coolest Theme for Jekyll License: MIT License
