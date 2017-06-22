@@ -66,10 +66,14 @@ google_verify:
 links:
   - title: Home
     url: /
+  - title: About
+    url: /about
   - title: Categories
     url: /categories
   - title: Tags
     url: /tags
+  - title: All Posts
+    url: /postlist
 
 # Sitemap configuration
 # https://github.com/kinnetica/jekyll-plugins

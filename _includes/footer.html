@@ -59,10 +59,6 @@
                 </li>
                 {% endif %}
             </ul>
-            <div>
-                <a href="/about/">{{ site.author.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull;
-                All rights reserved.
-            </div>
             <ul class="menu-items">
                 {% for link in site.links %}
                 <li>
@@ -75,6 +71,9 @@
                 {% endfor %}
                 <!-- <li><a href="/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss"></i> Feed</a></li> -->
             </ul>
+            <div>
+                &copy; <a href="/about/">{{ site.author.name }}</a>'s Blog
+            </div>
         </div>
     </div>
 

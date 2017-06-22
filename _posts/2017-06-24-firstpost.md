@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "タイトル"       # Title of the post
-description: "説明文"      # Description of the post, used for Facebook Opengraph & Twitter
-headline: "ヘッドライン"      # Will appear in bold letters on top of the post
-modified: 2017-06-20                # Date
+title: "ブログリニューアル"        # Title of the post
+description: "2017年の目標の一つ。Github Pages"    # Description of the post, used for Facebook Opengraph & Twitter
+headline: "ヘッドライン"  # Will appear in bold letters on top of the post
+modified: 2017-06-24    # Date
 category: test
 tags: [test1,hoho,hihi]
-image: 
+
+imagefeature: 201706.jpg
 comments: false
 mathjax:
 ---
