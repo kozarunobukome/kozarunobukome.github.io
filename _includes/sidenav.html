@@ -1,0 +1,14 @@
+<div id="fade"></div>
+<a id="slide" class="animated fade"></a>
+<aside id="sidebar">
+    <nav id="navigation">
+        <h2>MENU</h2>
+        <hr>
+        <ul>{% for link in site.links %}
+            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+            {% endfor %}
+            <!-- <li><a href="/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss"></i> Feed</a></li> -->
+        </ul>
+        <p>*1 since 2017  *2 until 2016</p>
+    </nav>
+</aside>

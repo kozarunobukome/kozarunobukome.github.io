@@ -68,13 +68,13 @@ links:
     url: /
   - title: About
     url: /about
-  - title: Categories
-    url: /categories
-  - title: Tags
-    url: /tags
   - title: All Posts
     url: /postlist
-  - title: Old Posts
+  - title: Categories *1
+    url: /categories
+  - title: Tags *1
+    url: /tags
+  - title: Posts in the past *2
     url: http://blog.kozaru.me
 
 # Sitemap configuration
