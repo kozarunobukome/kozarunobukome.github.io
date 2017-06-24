@@ -1177,6 +1177,11 @@ body.search-overlay:after {
   text-transform: uppercase;
 }
 
+.post-list .entry-description {
+  font-size: 10px;
+  color: #666;
+}
+
 @media only screen and (min-width:48em) {
   .post-list .entry-date {
     display: inline;

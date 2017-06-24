@@ -8,7 +8,9 @@
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
-			"shortdate": "{{ post.date | date: '%B %d, %Y' }}"
+			"shortdate": "{{ post.date | date: '%B %d, %Y' }}",
+      "description": "{{ post.description }}",
+      "headline": "{{ post.headline }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

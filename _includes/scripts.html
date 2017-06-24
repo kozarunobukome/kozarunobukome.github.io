@@ -47,7 +47,7 @@ $("a#click-pages").click(function(){
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.url}}/assets/json/search.json',
-        searchResultTemplate: '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
+        searchResultTemplate: '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a><span class="entry-description"><br>{description}<br>{headline}<span></article></li>',
         noResultsText: '<p>Nothing found.</p>',
         limit: 10,
         fuzzy: false,
@@ -55,21 +55,21 @@ $("a#click-pages").click(function(){
       });
 
   (function( $, window, undefined ) {
-    
+
      var bs = {
           close: $("#search-close"),
           searchform: $(".search-form"),
           canvas: $("body"),
           dothis: $('.dosearch')
       };
-    
+
     bs.dothis.on('click', function() {
       $('.search-wrapper').css({ display: "block" });
       bs.searchform.toggleClass('active');
       bs.searchform.find('input').focus();
       bs.canvas.toggleClass('search-overlay');
     });
-    
+
       bs.close.on('click', function() {
         $('.search-wrapper').removeAttr( 'style' );
         bs.searchform.toggleClass('active');
@@ -83,7 +83,7 @@ $("a#click-pages").click(function(){
 <!-- Asynchronous Google Analytics snippet -->
 <script>
   var _gaq = _gaq || [];
-  var pluginUrl = 
+  var pluginUrl =
  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
   _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
   _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
@@ -95,7 +95,7 @@ $("a#click-pages").click(function(){
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-{% endif %} 
+{% endif %}
 
 {% if page.comments %}
 {% include disqus_comments.html %}
