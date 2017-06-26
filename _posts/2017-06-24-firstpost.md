@@ -12,7 +12,7 @@ comments: false
 mathjax:
 ---
 
-ブログをリニューアル。WordPressから、[jekyll](https://jekyllrb-ja.github.io/)＋[GitHub Pages](https://pages.github.com/) に変更しました。今年は、いろんなスタティックサイトジェネレータを使ってみようと思っています。その第一弾がブログリニューアル。
+ブログをリニューアルしました。WordPressから、[jekyll](https://jekyllrb-ja.github.io/)＋[GitHub Pages](https://pages.github.com/) に変更しました。今年は、いろんなスタティックサイトジェネレータを使ってみようと思っています。その第一弾がブログリニューアル。
 
 [jekyll](https://jekyllrb-ja.github.io/)と[GitHub Pages](https://pages.github.com/) は、昨年実行委員で参加したイベント [DojoCon Japan 2016](http://dojocon2016.coderdojo.jp/) のサイト更新の際に初めて触りました。マークダウンで記事が書ける部分に惹かれて、使ってみました。
 
