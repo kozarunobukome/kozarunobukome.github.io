@@ -269,7 +269,7 @@ pre {
 }
 
 .super {
-  font-size: 48px;
+  font-size: 32px;
   font-weight: bold;
   line-height: 1;
   text-transform: uppercase;
@@ -281,7 +281,7 @@ pre {
 }
 
 .hyper {
-  font-size: 48px;
+  font-size: 32px;
   font-weight: bold;
   text-align: center;
   line-height: 1;
@@ -344,7 +344,7 @@ pre {
   }
 
   .super {
-    font-size: 48px;
+    font-size: 32px;
     text-align: center;
   }
 
@@ -354,7 +354,7 @@ pre {
   }
 
   .hyper {
-    font-size: 60px;
+    font-size: 32px;
   }
 
   .small-screen-center {
@@ -368,12 +368,12 @@ pre {
 
 @media (max-width: 480px) {
   .super {
-    font-size: 36px;
+    font-size: 32px;
     line-height: 1em;
   }
 
   .hyper {
-    font-size: 48px;
+    font-size: 32px;
     line-height: 1em;
   }
 

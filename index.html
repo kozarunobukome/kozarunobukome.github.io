@@ -19,7 +19,6 @@ imagefeature:
 		{% assign posttime = post.date | date: "%Y%m%d" %}
 
 		{% if post.type == 'quote' %}
-<div class="row">
 	<article class="post col-md-10 col-md-offset-1">
 		<header class="post-header">
 			<h2 class="post-title text-center super lighter">
@@ -61,11 +60,9 @@ imagefeature:
 			</div>
 	    </header>
 	</article>
-</div>
 		{% endif %}
 
 		{% if post.type == 'status' %}
-<div class="row">
 	<article class="post col-md-10 col-md-offset-1">
 		<header class="post-header">
 			<h2 class="post-title text-center super lighter">
@@ -127,7 +124,6 @@ imagefeature:
 		{% endif %}
 
 	    {% if post.type == 'video' %}
-<div class="row">
 	<article class="post post col-md-8 col-md-offset-2">
 		<header class="post-header">
 			{% if post.link %}
@@ -207,11 +203,9 @@ imagefeature:
 			</div>
 		</div>
 	</article>
-</div>
 	    {% endif %}
 
 		{% if post.type == 'photo' %}
-<div class="row">
 	<article class="post post col-md-8 col-md-offset-2">
 		<header class="post-header">
 			{% if post.photo %}
@@ -289,12 +283,10 @@ imagefeature:
 			</div>
 		</div>
 	</article>
-</div>
 		{% endif %}
 
 
 		{% if post.type != 'video' and post.type != 'status' and post.type != 'quote' and post.type != 'photo' %}
-<div class="row">
 	<article class="post post col-md-8 col-md-offset-2">
 		<header class="post-header">
 		{% if post.featured %}
@@ -372,12 +364,11 @@ imagefeature:
 			</div>
 		</div>
 	</article>
-</div>
 		{% endif %}
 	{% endfor %}
 
 	{% if paginator.total_pages > 1 %}
-<div class="row text-center text-caps">
+<div class="text-center text-caps">
 	<div class="col-md-8 col-md-offset-2">
 		<nav class="pagination" role="navigation">
 		{% if paginator.previous_page %}
@@ -403,7 +394,6 @@ imagefeature:
 		{% assign posttime = post.date | date: "%Y%m%d" %}
 
 		{% if post.type == 'quote' %}
-<div class="row">
 	<article class="post col-md-10 col-md-offset-1">
 		<header class="post-header">
 			<h2 class="post-title text-center super lighter">
@@ -445,12 +435,10 @@ imagefeature:
 			</div>
 		</header>
 	</article>
-</div>
 
 		{% endif %}
 
 	    {% if post.type == 'status' %}
-<div class="row">
 	<article class="post col-md-10 col-md-offset-1">
 		<header class="post-header">
 			<h2 class="post-title text-center super lighter">
@@ -504,11 +492,9 @@ imagefeature:
 			</div>
 		</header>
 	</article>
-</div>
 		{% endif %}
 
 	    {% if post.type == 'video' %}
-<div class="row">
 	<article class="post post col-md-8 col-md-offset-2">
 		<header class="post-header">
 		{% if post.link %}
@@ -579,11 +565,9 @@ imagefeature:
 			</div>
 		</div>
 	</article>
-</div>
 		{% endif %}
 
 	    {% if post.type == 'photo' %}
-<div class="row">
 	<article class="post post col-md-8 col-md-offset-2">
 		<header class="post-header">
 		{% if post.photo %}
@@ -659,11 +643,9 @@ imagefeature:
 			</div>
 		</div>
 	</article>
-</div>
 		{% endif %}
 
 	    {% if post.type != 'video' and post.type != 'status' and post.type != 'quote' and post.type != 'photo' %}
-<div class="row">
 	<article class="post post col-md-8 col-md-offset-2">
 		<header class="post-header">
 		{% if post.featured %}
@@ -740,7 +722,6 @@ imagefeature:
 			</div>
 		</div>
 	</article>
-</div>
 		{% endif %}
 
 	{% endfor %}
