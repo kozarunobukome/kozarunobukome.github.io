@@ -6,7 +6,7 @@ headline: "jekyll + GitHub Pages にリニューアル"  # Will appear in bold l
 modified: 2017-06-26    # Date
 category: feeling
 tags: [jekyll,GitHub Pages]
-ogp_image: /images/201706.jpg
+ogp_image: /images/default_bg.jpg
 imagefeature: 201706.jpg
 comments: false
 mathjax:
