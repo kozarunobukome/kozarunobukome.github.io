@@ -70,11 +70,11 @@ links:
     url: /about
   - title: All Posts
     url: /postlist
-  - title: Categories *1
+  - title: Categories
     url: /categories
-  - title: Tags *1
+  - title: Tags
     url: /tags
-  - title: Posts in the past *2
+  - title: Posts in the past
     url: http://blog.kozaru.me
 
 # Sitemap configuration
