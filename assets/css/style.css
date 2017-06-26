@@ -618,6 +618,7 @@ html {
 .page-body p,
 .post-body p {
   text-align: justify;
+  line-height: 2;
 }
 
 .post-body img {
