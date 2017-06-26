@@ -80,13 +80,13 @@ links:
 # Sitemap configuration
 # https://github.com/kinnetica/jekyll-plugins
 sitemap:
-    file: "/sitemap.xml"
-    exclude:
-        - "/atom.xml"
-        - "/feed.xml"
-        - "/feed/index.xml"
-    include_posts:
-        - "/index.html"
+  file: "/sitemap.xml"
+  exclude:
+      - "/atom.xml"
+      - "/feed.xml"
+      - "/feed/index.xml"
+  include_posts:
+      - "/index.html"
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
