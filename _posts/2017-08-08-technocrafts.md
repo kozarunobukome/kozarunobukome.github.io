@@ -12,17 +12,6 @@ comments: false
 mathjax:
 ---
 
-<!-- ブログをリニューアルしました。WordPressから、[jekyll](https://jekyllrb-ja.github.io/)＋[GitHub Pages](https://pages.github.com/) に変更しました。
-
-[jekyll](https://jekyllrb-ja.github.io/)と[GitHub Pages](https://pages.github.com/) は、昨年実行委員で参加したイベント [DojoCon Japan 2016](http://dojocon2016.coderdojo.jp/) のサイト更新の際に初めて触りました。マークダウンで記事が書ける部分に惹かれて、使ってみることに。
-
-CDNサービス[CloudFlare](https://www.cloudflare.com/)を使って、SSL化に対応。
-
-* [カスタムドメインのGitHub PagesをSSL対応する](https://t32k.me/mol/log/secure-and-fast-github-pages/)
-
-今年は、もうちょっと記事も書いていこうと思っています。
- -->
-
 真夏の日曜日に、[JUSO Coworking](https://juso-coworking.com/)で開催された [テクノ図工部](https://tekunozukoubu.net/) の第一回目の部活動に参加してきました！今日は、ゆるっと、そのときの感想などを書きます。
 
 
