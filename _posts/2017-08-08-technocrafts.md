@@ -25,7 +25,7 @@ mathjax:
 <iframe width="480" height="270" src="https://www.youtube.com/embed/brrpZeW9bFY" frameborder="0" allowfullscreen></iframe>
 <br>
 
-LEDで光るUVレジンアクセサリーの詳しい制作方法などは [テクノ図工部 Vol.1 活動レポート：UVレジンで光るアクセサリーを作りました！！](https://tekunozukoubu.net/2017/08/08/%E3%83%86%E3%82%AF%E3%83%8E%E5%9B%B3%E5%B7%A5%E9%83%A8-vol-1-%E6%B4%BB%E5%8B%95%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/)に載っています。
+LEDで光るUVレジンアクセサリーの詳しい制作方法などは [テクノ図工部 Vol.1 活動レポート：UVレジンで光るアクセサリーを作りました！！](https://tekunozukoubu.net/2017/08/08/%E3%83%86%E3%82%AF%E3%83%8E%E5%9B%B3%E5%B7%A5%E9%83%A8-vol-1-%E6%B4%BB%E5%8B%95%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/)をご覧ください！めっちゃ詳しく書いてあるので、とてもわかりやすいです！
 
 <hr>
 
@@ -65,5 +65,5 @@ LEDで光るUVレジンアクセサリーも大集合。どれもとてもきれ
 
 みなさんのLEDがついた瞬間の感動の声や笑顔がとてもよかったです。今から、次の部活動ではどんな作品ができるのか、楽しみです！
 
-以上、[テクノ図工部](https://tekunozukoubu.net/) 部員、こざるの感想レポートでした！部長、ちゃんとレポート書きましたよ！
+以上、[テクノ図工部](https://tekunozukoubu.net/) 部員、こざるの感想レポートでした！
 
