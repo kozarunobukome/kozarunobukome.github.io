@@ -126,7 +126,7 @@ imagefeature:
 </div>
     {% endif %}
 
-      {% if post.type == 'video' %}
+    {% if post.type == 'video' %}
 <div class="row">
   <article class="post post col-md-8 col-md-offset-2">
     <header class="post-header">
@@ -226,14 +226,10 @@ imagefeature:
 
       {% if post.link %}
       <h2 class="post-title text-center super lighter">
-        <a href="{{ post.url }}" style="color: #fff; background-color: #45ADA8; border-radius: 4px; padding: 10px">
-          <i class="fa fa-picture-o"></i> {{ post.title }}
-        </a>
+        <a href="{{ post.url }}" style="color: #fff; background-color: #45ADA8; border-radius: 4px; padding: 10px">{{ post.title }}</a>
       {% else %}
       <h2 class="post-title text-center super lighter bordered-bottom">
-        <a href="{{ post.url }}">
-          <i class="fa fa-picture-o"></i> {{ post.title }}
-          </a>
+        <a href="{{ post.url }}"> {{ post.title }}</a>
       {% endif %}
       </h2>
 
@@ -275,7 +271,8 @@ imagefeature:
     </header>
 
     <div class="post-body bordered-bottom">
-      <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>
+      <!-- <p>22{{ post.content | strip_html | truncatewords:100 }}&hellip;</p> -->
+      <p>{{ post.excerpt | strip_html }}&hellip;</p>
       <div class="text-center">
       {% if post.description %}
         <a href="{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link btn btn-default btn-large">
@@ -357,7 +354,7 @@ imagefeature:
     {% if excerptsize <= 100 and excerptsize >= 50 %}
       <p class="lead">{{ post.excerpt | strip_html }}&hellip;</p>
     {% else %}
-      <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>
+       <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>
     {% endif %}
       <div class="text-center">
       {% if post.description %}
@@ -582,7 +579,7 @@ imagefeature:
 </div>
     {% endif %}
 
-      {% if post.type == 'photo' %}
+<!--     {% if post.type == 'photo' %}
 <div class="row">
   <article class="post post col-md-8 col-md-offset-2">
     <header class="post-header">
@@ -660,7 +657,7 @@ imagefeature:
     </div>
   </article>
 </div>
-    {% endif %}
+    {% endif %} -->
 
       {% if post.type != 'video' and post.type != 'status' and post.type != 'quote' and post.type != 'photo' %}
 <div class="row">
@@ -722,7 +719,7 @@ imagefeature:
       {% assign excerptsize = post.excerpt | number_of_words %}
 
     {% if excerptsize <= 100 and excerptsize >= 50 %}
-      <p class="lead">{{ post.excerpt | strip_html }}&hellip;</p>
+      <p>{{ post.excerpt | strip_html }}&hellip;</p>
     {% else %}
       <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>
     {% endif %}

@@ -9,6 +9,7 @@ tags: [UVレジン,電子工作,テクノ図工部]
 ogp_image: /images/20170808_09.jpg
 imagefeature: 20170808.jpg
 comments: false
+type: "photo"
 mathjax:
 ---
 

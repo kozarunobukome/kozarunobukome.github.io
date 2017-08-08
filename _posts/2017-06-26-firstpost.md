@@ -9,6 +9,7 @@ tags: [jekyll,GitHub Pages]
 ogp_image: /images/default_bg.jpg
 imagefeature: 201706.jpg
 comments: false
+type: "photo"
 mathjax:
 ---
 
