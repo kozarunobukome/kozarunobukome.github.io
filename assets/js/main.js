@@ -41,3 +41,14 @@ $(document).ready(function () {
     mainClass: 'mfp-fade'
   });
 });
+
+// ページのロードが終わった後の処理
+$(window).on('load',function(){
+  $('#js-loader').delay(300).fadeOut(400);
+});
+
+$(function(){
+  setTimeout(function(){
+    $('#js-loader').delay(300).fadeOut(400);
+  }, 5000);
+});
