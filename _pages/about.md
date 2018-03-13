@@ -16,10 +16,10 @@ about: true
 
 ### 生まれてから転職まで
 
-片田舎に育ち、関西でもまれ、転職したり、母になったりした人生を過ごして来ました。詳細にご興味ありましたら、過去のブログの[プロフィール](http://blog.kozaru.me/profile/)や[記事](http://blog.kozaru.me)をごらんください。
+片田舎に育ち、関西でもまれ、転職したり、母になったりした人生を過ごして来ました。詳細にご興味ありましたら、過去のブログの[プロフィール](https://blog.kozaru.me//profile/)や[記事](https://blog.kozaru.me/)をごらんください。
 
-- [過去のブログ](http://blog.kozaru.me)
-- [過去のブログのProfile](http://blog.kozaru.me/profile/)
+- [過去のブログ](https://blog.kozaru.me/)
+- [過去のブログのProfile](https://blog.kozaru.me//profile/)
 
 ### 最近
 

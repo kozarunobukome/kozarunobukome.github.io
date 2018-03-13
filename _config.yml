@@ -75,7 +75,7 @@ links:
   - title: Tags
     url: /tags
   - title: Posts in the past
-    url: http://blog.kozaru.me
+    url: https://blog.kozaru.me/
 
 # Sitemap configuration
 # https://github.com/kinnetica/jekyll-plugins
