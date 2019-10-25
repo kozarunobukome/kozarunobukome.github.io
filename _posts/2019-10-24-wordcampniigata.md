@@ -6,7 +6,7 @@ headline: "久々のWordCamp"  # Will appear in bold letters on top of the post
 modified: 2019-10-24   # Date
 category: Feeling
 tags: [WordCamp新潟]
-ogp_image: /images/20191024-ogp.jpg
+ogp_image: /images/20191024_ogp.jpg
 imagefeature: 20191024.jpg
 comments: false
 type: "photo"
