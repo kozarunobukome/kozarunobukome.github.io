@@ -53,7 +53,7 @@ mathjax:
 
 ## 懇親会の[Shifter](https://2019.niigata.wordcamp.org/sponsor/shifter/) Beer
 ![Shifter Beer](/images/20191024_shifter.jpg){: .img-responsive}
-懇親会でいただいた、ビアスポーンサー[Shifter](https://2019.niigata.wordcamp.org/sponsor/shfter/)さんのビール！
+懇親会でいただいた、ビアスポンサー[Shifter](https://2019.niigata.wordcamp.org/sponsor/shfter/)さんのビール！
 
 ①[志賀高原 其の十 / NO.10 Anniversary IPA](http://tamamura-honten.co.jp/?pid=97647214)  
 ②[SwanLakeBeer Crepuscular rays](https://www.facebook.com/176283909084898/posts/2474421422604457?sfns=mo)
