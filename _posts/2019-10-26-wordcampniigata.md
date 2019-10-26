@@ -3,7 +3,7 @@ layout: post
 title: "WordCamp Niigata 2019へ行ってきました"        # Title of the post
 description: "WordCamp新潟に行ったときのことを書きました。"    # Description of the post, used for Facebook Opengraph & Twitter
 headline: "久々のWordCamp"  # Will appear in bold letters on top of the post
-modified: 2019-10-24   # Date
+modified: 2019-10-26   # Date
 category: Feeling
 tags: [WordCamp新潟]
 ogp_image: /images/20191024_ogp.jpg
