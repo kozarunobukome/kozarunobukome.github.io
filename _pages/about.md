@@ -21,7 +21,8 @@ about: true
 
 英会話も細く長く続けていて、2023 年 6 月にようやく TOEIC700 点となりました。目標は、海外旅行客の方に英語で道案内できることだったんですが、英語圏の旅行者の方が減り、翻訳アプリが増えた今は、英語の映画やドラマを観れるようになることかなぁと思っています。何年か前に、とある思いつきから[娘とセブに短期留学](https://trippencil.com/cebu2018/)したのもいい思い出です。
 
-[パン教室](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTkyOTc1NDk4NTAzNTkz?story_media_id=2458145880671512542&igshid=MzRlODBiNWFlZA==)には、5 年通っていますが、こちらは、なかなか上手くなりませんが、継続は力なりということで、楽しみながら、頑張っております。
+[パン教室](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTkyOTc1NDk4NTAzNTkz?story_media_id=2458145880671512542&igshid=MzRlODBiNWFlZA==)には、5 年通っています。  
+こちらは、なかなか上手くなりませんが、継続は力なりということで、楽しみながら、頑張っております。
 
 その他、[フラワーアレンジメント](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTE2NjY0OTQ2NjIxMzgw?story_media_id=2579630676896513140&igshid=MzRlODBiNWFlZA==)、[スイーツ](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODc5NzUyOTA0NzQ0NDQ4?story_media_id=2693446281564506794&igshid=MzRlODBiNWFlZA==)、ヨガ、ピラティス、映画鑑賞、旅行、[テクノ図工](https://www.tekunozukoubu.net/)など、好きなことは、いっぱいあります。
 
@@ -32,13 +33,13 @@ about: true
 
 #### 2018 年-2023 年(現在)
 
-業務委託契約にて、Nuxt.js を使った SPA の開発をしています。
-Nuxt.js メインのため、Vue.js を使った開発が長く、主に Composition API を使った開発をしています。
-ver2、ver3 と開発を重ねており、ここ 1.2 年は、コンポーネントの再利用性を高めるために、Storybook を導入するプロジェットに参画しています。
-CSS フレームワークは、TailwindCSS、Vuetify を使い、ながら、プロジェクトにあったスタイル構成に合わせて、コンポーネントにスタイルを当てております。
-コンポーネント構成は、ベースになる CSS フレームワークによって、大きく変わりますが、Atomic Design の特に Atom を意識して、最小コンポーネントを作ることが多いです。
-JavaScript は、TypeScript を使っており、各コンポーネントや API レスポンスごとに型定義をしつつ、開発しています。
-デザイナーさんとのやりとりは、Figma を使って、デザインを作成していただき、開発に落とし込むことが多いです。
+業務委託契約にて、Nuxt.js を使った SPA の開発をしています。  
+Nuxt.js メインのため、Vue.js を使った開発が長く、主に Composition API を使った開発をしています。  
+ver2、ver3 と開発を重ねており、ここ 1.2 年は、コンポーネントの再利用性を高めるために、Storybook を導入するプロジェットに参画しています。  
+CSS フレームワークは、TailwindCSS または Vuetify を使いながら、プロジェクトにあったスタイル構成に合わせて、コンポーネントにスタイルを当てております。  
+コンポーネント構成は、ベースになる CSS フレームワークによって、大きく変わりますが、Atomic Design の主に Atom を意識して、最小コンポーネントを作ることが多いです。  
+JavaScript は、TypeScript を使っており、各コンポーネントや API レスポンスごとに型定義をしつつ、開発しています。型定義された配列やオブジェクトを違う型に変換するコードがきれいに書けると、ニヤニヤしてるかもしれません。  
+デザイナーさんとのやりとりは、Figma でデザインを作成していただき、開発に落とし込むことが多いです。  
 開発環境は、Mac 上で Docker を使うケースが近年メインです。開発ツールは、VSCode を使っております。
 
 Astro や React は、いつか使ってみたい技術だけど、なかなか機会がないのが現状です。
