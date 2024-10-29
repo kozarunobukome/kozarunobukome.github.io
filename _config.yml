@@ -48,8 +48,8 @@ author:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    '大阪で細々Web系フリーランスをしているこざるです。<br>好きなことや便利だったことなどを綴ります。'
   # Social networking links used in footer. Update and remove as you like.
-  twitter: 'https://twitter.com/kozaru_me'
-  facebook: 'https://www.facebook.com/kozaru.me'
+  twitter: 'https://twitter.com/kozaru_kodera'
+  facebook:
   github: 'https://github.com/kozaru'
   linkedin:
   instagram: 'https://www.instagram.com/la_vie_lente/'
