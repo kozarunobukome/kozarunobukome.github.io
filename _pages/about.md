@@ -11,7 +11,7 @@ about: true
 目標は、アタマもココロもヤワラカく生きることです。
 
 - 名前：こざる
-- すきなもの：シマエナガ、ビール、牡蠣、Mac、iPhone、絵本
+- すきなもの：シマエナガ、ビール、牡蠣、雲丹、Mac、iPhone、絵本
 - すきなことば：笑う門には福来たる、急がば回れ、継続は力なり、一期一会
 
 ### お仕事と簡単な経歴
@@ -40,16 +40,14 @@ CSS フレームワークは、TailwindCSS または Vuetify などを使いな�
 
 ### 趣味
 
-まずは習慣化しているものから行くと、毎週お花を買ってきて、飾って癒されています。  
-その流れで、水やりを習得し、何度やっても枯らしてしまっていた植物を育てることに、[成功しました](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTMzNDg0NzA5ODE5NTQ2?story_media_id=2756679847701813514&igshid=MzRlODBiNWFlZA==)！
+毎週お花を買ってきて、飾って癒されています。  
+英会話は、細く長く続けていて、2023 年 6 月にようやく TOEIC700 点となりました。何年か前に、[娘とセブに短期留学](https://trippencil.com/cebu2018/)したのもいい思い出です。次の目標は TOEIC800 点ですが、英語は脳トレも兼ねているので、コツコツ無理なく続けたいです。
 
-英会話も細く長く続けていて、2023 年 6 月にようやく TOEIC700 点となりました。何年か前に、[娘とセブに短期留学](https://trippencil.com/cebu2018/)したのもいい思い出です。次の目標は TOEIC800 点ですが、英語は脳トレも兼ねているので、コツコツ無理なく続けたいです。
+おいしいランチ付きパン教室にも数年通っています。  
+なかなか上手くなりませんが、ランチを楽しみながら、捏ねたり、成形したりを頑張っております。
 
-[パン教室](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTkyOTc1NDk4NTAzNTkz?story_media_id=2458145880671512542&igshid=MzRlODBiNWFlZA==)には、5 年通っています。  
-なかなか上手くなりませんが、継続は力なりということで、楽しみながら、頑張っております。
-
-その他、[フラワーアレンジメント](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTE2NjY0OTQ2NjIxMzgw?story_media_id=2579630676896513140&igshid=MzRlODBiNWFlZA==)、[スイーツ](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODc5NzUyOTA0NzQ0NDQ4?story_media_id=2693446281564506794&igshid=MzRlODBiNWFlZA==)、ピラティス、映画鑑賞、旅行、[テクノ図工](https://www.tekunozukoubu.net/)など、好きなことをぼちぼちやりながら、生活しています。
+その他、フラワーアレンジメント、スイーツ、ピラティス、映画鑑賞、旅行、[テクノ図工](https://www.tekunozukoubu.net/)など、好きなことをぼちぼちやりながら、生活しています。
 
 ### 生まれてから転職まで
 
-片田舎に育ち、関西でもまれ、転職したり、母になったりした人生を過ごして来ました。詳細にご興味ありましたら、過去のブログの[プロフィール](https://blog.kozaru.me//profile/)をごらんください。
+片田舎に育ち、関西でもまれ、転職したり、母になったりした人生を過ごして来ました。詳細にご興味ありましたら、過去のブログの[プロフィール](https://blog.kozaru.me/profile/)をごらんください。
